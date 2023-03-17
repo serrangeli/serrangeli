@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Carlo Serrangeli and I currently work for GE Aviation
+- 👋 Hi, my name is Carlo Serrangeli and I currently work for GE Aerospace
 - 👀 I’m interested in data science and new technologies.
 - 🌱 I’m currently learning python, even if i love the R language
 - 💞️ I’m looking to collaborate on new exiting data science projectts
